@@ -1,12 +1,9 @@
-## Hi there 👋
-
 ## GitHub stats
 
 ![GitHub stats for alynader001](https://github-readme-stats.vercel.app/api?username=alynader001&show_icons=true&theme=transparent)
 ![Top languages for alynader001](https://github-readme-stats.vercel.app/api/top-langs/?username=alynader001&layout=compact&theme=transparent&langs_count=8)
 ![Contribution streak for alynader001](https://streak-stats.demolab.com?user=alynader001&theme=transparent&hide_border=true)
 
-These visuals update automatically based on your public activity.
 
 <!--
 **alynader001/alynader001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
